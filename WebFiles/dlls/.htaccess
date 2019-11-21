@@ -1,0 +1,6 @@
+# Change "youruseragent" with the useragent you want so people can't access your dlls, make sure to leave the double quotation marks and have it be the same in the program in settings.cs
+SetEnvIfNoCase User-Agent "youruseragent" whitelist
+
+Order Deny,Allow
+Deny from All
+Allow from env=whitelist

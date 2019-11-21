@@ -1,0 +1,1 @@
+ALTER TABLE `mybb_users` ADD `hwid` VARCHAR(256) NOT NULL AFTER `salt`;

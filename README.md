@@ -1,6 +1,6 @@
 # Nova Hook | Open Source C# Cheat Loader
 
-I will not be actively updating this project, but I may bring in some new features from time to time when I am bored and have nothing else to do. If you need support contact me on Discord at Thaisen#9999 or [on my Discord server](https://discord.gg/J8HNrPG)! (UPDATED 04/28/2019)
+I will not be actively updating this project, but I may bring in some new features from time to time when I am bored and have nothing else to do. If you need support contact me on Discord at Thaisen#9999 or [on my Discord server](https://discord.gg/J8HNrPG)! (UPDATED 11/22/2019)
 
 By downloading and using the source you agree to the [License](#license) that comes with the loader.
 
